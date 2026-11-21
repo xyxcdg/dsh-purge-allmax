@@ -13234,7 +13234,7 @@ function SettingsRoot(props = {}) {
     h(
       "header",
       { className: "dshpp-native-head" },
-      h("div", null, h("h2", null, "Purge"), h("p", null, "\u63D2\u4EF6\u8BBE\u7F6E")),
+      h("div", null, h("h2", null, "dsh-purge-allmax"), h("p", null, "\u63D2\u4EF6\u8BBE\u7F6E")),
       h(
         "span",
         { className: "dshpp-native-badge" },
@@ -13244,7 +13244,7 @@ function SettingsRoot(props = {}) {
     h(CompatibilityNote, { status: backendStatus }),
     h(
       "nav",
-      { className: "dshpp-native-nav", "aria-label": "Purge \u8BBE\u7F6E\u5206\u7C7B" },
+      { className: "dshpp-native-nav", "aria-label": "dsh-purge-allmax \u8BBE\u7F6E\u5206\u7C7B" },
       [
         ["status", "\u72B6\u6001"],
         ["prompt", "\u63D0\u793A\u8BCD"],
@@ -13479,7 +13479,7 @@ function PurgePage() {
       h(
         "div",
         { className: "dshpp-page-title" },
-        h("h1", null, "Purge"),
+        h("h1", null, "dsh-purge-allmax"),
         h(
           "p",
           null,
@@ -14845,7 +14845,7 @@ function apply(ctx) {
         name: "sidebar.panellist",
         id: "dsh-purge",
         order: 30,
-        label: "Purge",
+        label: "allmax",
         inject: () => ({ t })
       },
       PurgeGlyphIcon
