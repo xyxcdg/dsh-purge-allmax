@@ -9138,7 +9138,7 @@ var zh = {
   "welcome.lead": "\u9996\u6B21\u5B89\u88C5\u672C\u63D2\u4EF6\u65F6\u8BF7\u9605\u8BFB\u4EE5\u4E0B\u8BF4\u660E\u3002\u786E\u8BA4\u540E\u672C\u7A97\u4E0D\u518D\u5F39\u51FA\u3002",
   "welcome.warn": "\u672C\u63D2\u4EF6\u514D\u8D39\u5F00\u6E90\u3002\u4EFB\u4F55\u80CC\u7740\u4F5C\u8005\u79C1\u81EA\u552E\u5356\u3001\u4ED8\u8D39\u5012\u5356\u6216\u501F\u672C\u9879\u76EE\u76C8\u5229\u7684\u884C\u4E3A\uFF0C\u4F5C\u8005\u5C06\u4F9D\u6CD5\u8FFD\u7A76\u6CD5\u5F8B\u8D23\u4EFB\u3002",
   "welcome.body": "dsh-purge \u662F DeepSeek Harness \u7684\u672C\u673A\u7F51\u7EDC\u5B89\u5168\u7EA2\u961F\u8BC4\u6D4B\u4E0E\u6E05\u6D17\u63D2\u4EF6\uFF1A\u5728\u53D7\u63A7\u672C\u673A\u73AF\u5883\u4E2D\u8C03\u6574\u63D0\u793A\u8BCD\u4E0E\u8865\u4E01\u3001\u505A\u6388\u6743\u8303\u56F4\u5185\u7684\u6F14\u7EC3\u53F0\u64CD\u4F5C\u3002\u9879\u76EE\u514D\u8D39\u3001\u975E\u8425\u5229\uFF0C\u6E90\u7801\u4ED3\u5E93\uFF1A",
-  "welcome.repo": "https://github.com/YuJunZhiXue/dsh-purge",
+  "welcome.repo": "https://github.com/xyxcdg/dsh-purge-allmax",
   "welcome.ban1": "\u7981\u6B62\u5C06\u672C\u9879\u76EE\u7528\u4E8E\u672A\u6388\u6743\u7684\u7F51\u7EDC\u653B\u51FB\u3001\u5165\u4FB5\u3001\u7A83\u53D6\u6570\u636E\u3001\u7834\u574F\u7CFB\u7EDF\u6216\u4EFB\u4F55\u8FDD\u6CD5\u72AF\u7F6A\u3002",
   "welcome.ban2": "\u7981\u6B62\u5546\u4E1A\u552E\u5356\u3001\u4ED8\u8D39\u5012\u5356\u3001\u9ED1\u7070\u4EA7\u725F\u5229\uFF0C\u4EE5\u53CA\u9690\u7792\u4F5C\u8005\u7684\u8425\u5229\u6027\u518D\u5206\u53D1\u3002",
   "welcome.ban3": "\u4F7F\u7528\u8005\u987B\u81EA\u884C\u9075\u5B88\u6240\u5728\u5730\u6CD5\u5F8B\u6CD5\u89C4\u4E0E\u5E73\u53F0\u89C4\u8303\uFF1B\u8FDD\u6CD5\u540E\u679C\u7531\u884C\u4E3A\u4EBA\u81EA\u884C\u627F\u62C5\uFF0C\u4E0E\u4F5C\u8005\u65E0\u5173\u3002",
@@ -9167,7 +9167,7 @@ var zh = {
   "envGate.skipNo": "\u8FD4\u56DE",
   "envGate.skipYes": "\u786E\u8BA4\u6682\u4E0D\u914D\u7F6E",
   "envGate.go": "\u53BB\u73AF\u5883\u9002\u914D",
-  "compat.host": "dsh-purge Community {version} \xB7 \u5BBF\u4E3B DSH {host} \xB7 \u517C\u5BB9\u7EA7\u522B\uFF1A{level}",
+  "compat.host": "dsh-purge-allmax {version} \xB7 \u5BBF\u4E3B DSH {host} \xB7 \u517C\u5BB9\u7EA7\u522B\uFF1A{level}",
   "compat.loading": "\u6B63\u5728\u8BFB\u53D6\u5BBF\u4E3B\u7248\u672C\u2026",
   "compat.unavailable": "\u8BFB\u4E0D\u5230\u5BBF\u4E3B\u517C\u5BB9\u4FE1\u606F\uFF1A{error}",
   "compat.level.qualified": "\u5DF2\u56DE\u5F52\u9A8C\u8BC1",
@@ -9515,7 +9515,7 @@ var en = {
   "welcome.lead": "Please read this on first install. After you confirm, it will not appear again.",
   "welcome.warn": "This plugin is free and open source. Anyone who sells, resells, or profits from it behind the author's back may face legal action.",
   "welcome.body": "dsh-purge is a local DeepSeek Harness plugin for security evaluation and cleaning: adjust prompts and patches on a machine you control, and use the drill console only within authorized scope. It is free and non-profit. Repository:",
-  "welcome.repo": "https://github.com/YuJunZhiXue/dsh-purge",
+  "welcome.repo": "https://github.com/xyxcdg/dsh-purge-allmax",
   "welcome.ban1": "Do not use this project for unauthorized attacks, intrusion, data theft, sabotage, or any illegal activity.",
   "welcome.ban2": "Do not commercially sell, resell, or profit from gray-market use, or redistribute for profit without the author.",
   "welcome.ban3": "You must follow local law and platform rules; illegal use is solely your responsibility.",
@@ -9544,7 +9544,7 @@ var en = {
   "envGate.skipNo": "Back",
   "envGate.skipYes": "Continue without tools",
   "envGate.go": "Open Env adapt",
-  "compat.host": "dsh-purge Community {version} \xB7 host DSH {host} \xB7 compatibility: {level}",
+  "compat.host": "dsh-purge-allmax {version} \xB7 host DSH {host} \xB7 compatibility: {level}",
   "compat.loading": "Reading the host version\u2026",
   "compat.unavailable": "Host compatibility is unavailable: {error}",
   "compat.level.qualified": "regression verified",
@@ -10823,7 +10823,7 @@ function CommunityMaintenance() {
   }
   return h(
     "section",
-    { className: "dshpp-panel", "aria-label": "\u793E\u533A\u7248\u7EF4\u62A4" },
+    { className: "dshpp-panel", "aria-label": "allmax \u7EF4\u62A4" },
     h("h3", null, "\u7EF4\u62A4\uFF1A\u66F4\u65B0\u4E0E\u672C\u673A\u5907\u4EFD"),
     // 通道现状摘要：代理是否直连、密钥是否已配置（密钥明文永不回显）。
     // 入口按钮不在这里，它跟「自动检查更新」放在同一行。
@@ -10841,7 +10841,7 @@ function CommunityMaintenance() {
     h(
       "div",
       { className: "dshpp-row" },
-      h(Btn, { disabled: busy, onClick: () => run("check") }, "\u68C0\u67E5\u793E\u533A\u7248\u66F4\u65B0"),
+      h(Btn, { disabled: busy, onClick: () => run("check") }, "\u68C0\u67E5 allmax \u66F4\u65B0"),
       h(
         Btn,
         {
@@ -13238,7 +13238,7 @@ function SettingsRoot(props = {}) {
       h(
         "span",
         { className: "dshpp-native-badge" },
-        (true ? "\u793E\u533A\u7248 " : "\u72EC\u7ACB\u754C\u9762 ") + "1.0.0"
+        (true ? "dsh-purge-allmax " : "\u72EC\u7ACB\u754C\u9762 ") + "1.0.0"
       )
     ),
     h(CompatibilityNote, { status: backendStatus }),
@@ -13487,7 +13487,7 @@ function PurgePage() {
           true ? h(
             "span",
             { className: "dshpp-page-ver" },
-            "\u793E\u533A\u7248 1.0.0"
+            "dsh-purge-allmax 1.0.0"
           ) : null
         )
       )
